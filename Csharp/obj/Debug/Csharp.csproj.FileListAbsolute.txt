@@ -1,0 +1,6 @@
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\Csharp\Csharp\bin\Debug\Csharp.exe
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\Csharp\Csharp\bin\Debug\Csharp.pdb
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\Csharp\Csharp\obj\Debug\Csharp.csprojAssemblyReference.cache
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\Csharp\Csharp\obj\Debug\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\Csharp\Csharp\obj\Debug\Csharp.exe
+C:\Users\NC.DESKTOP-US9OHVR\RiderProjects\Csharp\Csharp\obj\Debug\Csharp.pdb
